@@ -1,4 +1,4 @@
-# AniKatsu API
+# Gojo API
 
 ### Installing
 
